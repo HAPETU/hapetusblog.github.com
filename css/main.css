@@ -3,9 +3,11 @@
 /* Header, footer */
 
 header, footer {
-  background-color: #38b6ff;
+  background-color: #242320;
 }
-
+main {
+	background-color: #211E1B;
+}
 nav {
   /*background-color: darkturquoise;*/
   background: linear-gradient(
