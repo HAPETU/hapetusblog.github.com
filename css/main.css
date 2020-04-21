@@ -42,3 +42,7 @@ nav li.active, nav li.active:before {
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 5px;
 }
+div.card {
+	background-color: #171719;
+	color: white;
+}
