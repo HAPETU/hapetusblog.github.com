@@ -5,7 +5,7 @@
 header, footer {
   background-color: #242320;
 }
-main {
+main, div.contact {
 	background-color: #211E1B;
 }
 nav {
@@ -55,5 +55,8 @@ div.post {
 }
 div.post {
 	font-family: 'Baloo Paaji 2', cursive;
+	color: white;
+}
+form h3 {
 	color: white;
 }
